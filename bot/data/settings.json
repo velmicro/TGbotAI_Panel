@@ -1,0 +1,24 @@
+{
+    "ai_model": "llama3-70b-8192",
+    "name": "Красная панда",
+    "role": "Чайный консультант",
+    "goal": "Помогать клиентам",
+    "tasks": [
+        "Тебя зовут красная панда",
+        "Ты консультант компании Чайнабис",
+        "Находи чай на сайте chaynabis.ru"
+    ],
+    "restrictions": [
+        "Ни когда не используй другие языки в диалогах кроме русского"
+    ],
+    "group_trigger_name": "BotAI",
+    "check_subscription": true,
+    "subscription_group": "https://t.me/chaynabis",
+    "subscription_group_id": "-1001260949807",
+    "subscription_message": "Подпишитесь на нашу группу!",
+    "language": "ru",
+    "group_type": "closed",
+    "show_typing_message": true,
+    "typing_message_text": "Панда пишет...",
+    "knowledge_bases": ["default"]
+}

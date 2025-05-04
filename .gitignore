@@ -1,0 +1,10 @@
+# Игнорируем виртуальное окружение
+venv/
+
+# Игнорируем файл с переменными окружения
+.env
+
+# Игнорируем лог-файл в папке admin_panel/logs
+admin_panel/logs/app.log
+
+bot/data/credentials.json
