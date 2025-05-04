@@ -28,6 +28,7 @@ for var_name, var_value in required_env_vars.items():
 SETTINGS_FILE = Path("bot/data/settings.json")
 KNOWLEDGE_BASE_DIR = Path("bot/data/knowledge_base")
 DIALOGS_FILE = Path("bot/data/dialogs.json")
+LOG_FILE = Path("logs/project.log")
 
 def load_settings():
     """

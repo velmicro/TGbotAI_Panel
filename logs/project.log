@@ -1,0 +1,19 @@
+2025-05-05 02:45:57,119 - root - INFO - Запуск бота...
+2025-05-05 02:45:57,120 - aiogram.dispatcher - INFO - Start polling
+2025-05-05 02:45:57,335 - aiogram.dispatcher - INFO - Run polling for bot @vel26testbot id=7582800146 - 'testbot'
+2025-05-05 02:46:23,261 - root - INFO - Логи загружены для админ-панели
+2025-05-05 02:46:24,002 - root - INFO - Получен список моделей
+2025-05-05 02:46:24,006 - root - INFO - Настройки загружены
+2025-05-05 02:46:24,008 - root - INFO - Получен список баз знаний
+2025-05-05 02:47:09,242 - root - INFO - Инициируется остановка бота
+2025-05-05 02:47:09,243 - root - INFO - Остановка бота...
+2025-05-05 02:47:13,209 - aiogram.dispatcher - INFO - Polling stopped for bot @vel26testbot id=7582800146 - 'testbot'
+2025-05-05 02:47:13,209 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-05 02:47:25,510 - root - INFO - Запуск бота...
+2025-05-05 02:47:25,511 - aiogram.dispatcher - INFO - Start polling
+2025-05-05 02:47:25,722 - aiogram.dispatcher - INFO - Run polling for bot @vel26testbot id=7582800146 - 'testbot'
+2025-05-05 02:47:30,932 - root - INFO - Инициируется перезагрузка настроек бота
+2025-05-05 02:47:30,932 - root - INFO - Перезагрузка бота...
+2025-05-05 02:47:30,932 - root - INFO - Остановка бота...
+2025-05-05 02:47:35,805 - aiogram.dispatcher - INFO - Polling stopped for bot @vel26testbot id=7582800146 - 'testbot'
+2025-05-05 02:47:35,807 - aiogram.dispatcher - INFO - Polling stopped

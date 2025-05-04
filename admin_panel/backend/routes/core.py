@@ -2,7 +2,7 @@ from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 import json
 import os
-from bot.config import SETTINGS_FILE, load_settings
+from bot.config import SETTINGS_FILE, load_settings, LOG_FILE
 from groq import Groq
 from bot.config import GROQ_API_KEY
 import logging
@@ -15,9 +15,6 @@ from admin_panel.backend.models.bot_settings import BotSettings
 setup_logging()
 
 router = APIRouter()
-
-# Путь к файлу логов
-LOG_FILE = "admin_panel/logs/app.log"
 
 # Получение списка моделей Groq
 @router.get("/models")
